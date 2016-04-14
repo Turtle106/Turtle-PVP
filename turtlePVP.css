@@ -39,7 +39,6 @@ html {
     font-size: 16px;
     border: 2px solid white;
     cursor: pointer;
-    padding-left: 10%;
 }
 
 /* Dropdown button on hover & focus */
@@ -52,7 +51,7 @@ html {
     position: relative;
     display: inline-block;
     margin: auto;
-    padding-left: 8%;
+    padding-left: 20%;
 }
 
 /* Dropdown Content (Hidden by Default) */
