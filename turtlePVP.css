@@ -53,6 +53,7 @@ html {
     position: relative;
     display: inline-block;
     margin: auto;
+    padding-left: 8%;
 }
 
 /* Dropdown Content (Hidden by Default) */
